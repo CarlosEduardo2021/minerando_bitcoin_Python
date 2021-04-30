@@ -23,7 +23,7 @@ if __name__ == "__main__":
     Elizabeth -> Carl -> 13
     """
 
-    qtda_zeros = 4
+    qtda_zeros = 5
     hash_anterior = "yxz"
     inicio = time.time()
     resultado = minerar(num_bloco,transacoes, hash_anterior, qtda_zeros)
